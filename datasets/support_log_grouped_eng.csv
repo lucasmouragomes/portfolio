@@ -1,0 +1,9 @@
+type_id,user_id,timestamp,alert_group,importance
+1,311,311,high,1
+2,302,302,high,0
+3,606,606,critical,0
+4,312,312,high,1
+5,586,586,critical,1
+6,303,303,high,1
+7,283,283,medium,1
+8,297,297,medium,0

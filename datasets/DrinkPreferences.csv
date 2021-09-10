@@ -1,0 +1,301 @@
+Age,Gender,Height,Weight,NonAlcoholicDrink,AlcoholicDrink
+19,Male,NaN,NaN,Coffee,NaN
+NaN,Female,64.5,128.7,Water,Liquor
+21,Male,71.47,182.95,Coffee,Beer
+32,Female,57.3,103.4,Green Tea,Wine
+32,Female,53.8,138.4,Black Tea,Liquor
+20,Male,73.38,204.59,Pepsi,NaN
+20,Male,70.46,225.25,Coffee,NaN
+32,Female,54.1,157.8,Black Tea,Liquor
+49,Female,64.8,152.6,Gatorade,Beer
+45,Male,NaN,196.55,Coffee,Liquor
+20,Female,61.1,176.7,Apple Juice,NaN
+22,Male,69.71,201.68,Apple Juice,Liquor
+24,Male,64.78,230.45,Apple Juice,Liquor
+24,Male,65.67,192.86,Water,Beer
+20,Male,67.15,209.77,Pepsi,NaN
+22,Male,NaN,213.98,Black Tea,Liquor
+NaN,Female,59.6,146.4,Water,Liquor
+18,Female,62.6,174.3,Black Tea,NaN
+29,Female,55.3,140.4,Green Tea,None
+45,Female,58.9,132.7,Dr. Pepper,Beer
+NaN,Female,59.8,134.4,Apple Juice,NaN
+23,Female,64.6,155.8,Apple Juice,Beer
+NaN,Female,62.8,142.8,Black Tea,NaN
+20,Female,55.1,172.8,Green Tea,NaN
+48,Female,58.3,146.4,Coke,Liquor
+NaN,Male,73.48,233.47,Coffee,Liquor
+21,Female,53.5,143.4,Water,Beer
+32,Male,69.01,220.31,Coffee,Liquor
+20,Male,71,NaN,Black Tea,NaN
+23,Male,75.5,228.67,Dr. Pepper,Beer
+45,Male,62.16,209.06,Gatorade,Beer
+NaN,Female,58.3,94.4,Black Tea,Liquor
+NaN,Male,NaN,214.48,Black Tea,Liquor
+19,Female,54,150.6,Green Tea,NaN
+NaN,Male,72.15,231.51,Black Tea,Wine
+24,Male,73.27,202.37,Green Tea,Wine
+19,Female,55.5,118.7,Coffee,NaN
+47,Male,73.84,210.08,Red Bull,Liquor
+NaN,Female,60.9,136.4,Black Tea,Beer
+47,Female,56,115.4,Red Bull,Beer
+18,Female,66.1,118.4,Dr. Pepper,NaN
+NaN,Female,53.9,145.6,Coffee,NaN
+NaN,Female,58.7,151.4,Green Tea,NaN
+24,Male,66.03,221.6,Water,Liquor
+23,Female,59.2,143.9,Pepsi,Beer
+22,Female,57.4,139.9,Coffee,Wine
+18,Male,70.94,209.19,Black Tea,NaN
+22,Female,55.8,111,Black Tea,Wine
+20,Male,72.9,NaN,Black Tea,NaN
+22,Male,NaN,197,Coffee,Liquor
+18,Female,57.3,165.9,Black Tea,NaN
+23,Female,61.9,145.7,Coffee,Liquor
+23,Female,58.9,173.3,Coffee,Wine
+18,Male,71.87,218.54,Apple Juice,NaN
+NaN,Male,72.24,212.82,Black Tea,Beer
+47,Female,57.3,196.3,Pepsi,Beer
+32,Female,59.1,95.5,Water,Liquor
+60,Female,62.5,114.9,Red Bull,Liquor
+49,Female,62,165.7,Dr. Pepper,Liquor
+32,Male,70.09,208.52,Coke,None
+20,Female,55.8,142.8,Apple Juice,NaN
+23,Male,67.87,214.37,Water,Liquor
+22,Male,77.34,NaN,Apple Juice,None
+19,Male,73.06,210,Pepsi,NaN
+21,Female,56.8,148.4,Apple Juice,Beer
+18,Female,59.8,172.5,Coke,NaN
+21,Male,69.72,NaN,Apple Juice,Liquor
+60,Female,64.5,154.7,Coke,Liquor
+NaN,Female,63.2,156,Black Tea,NaN
+18,Male,NaN,192.98,Green Tea,NaN
+29,Female,61,165.2,Green Tea,Liquor
+23,Female,61.4,172.3,Coffee,Liquor
+21,Male,72.8,205.93,Green Tea,Liquor
+18,Male,NaN,206.55,Red Bull,NaN
+19,Male,69.16,216.56,Coke,NaN
+NaN,Male,69.58,201.38,Pepsi,Beer
+21,Female,61.2,191.5,Black Tea,Beer
+22,Female,60.5,113.4,Green Tea,Liquor
+18,Female,61.6,142,Apple Juice,NaN
+20,Male,68.61,206.05,Red Bull,NaN
+21,Male,67.84,NaN,Black Tea,Liquor
+23,Male,69.73,216.1,Apple Juice,None
+47,Female,53.5,136.5,Dr. Pepper,Liquor
+23,Female,65.8,189.7,Apple Juice,Beer
+24,Male,67.3,229.97,Black Tea,Liquor
+19,Female,61.8,134.4,Apple Juice,NaN
+29,Male,NaN,218.8,Dr. Pepper,Liquor
+33,Female,53.5,158.2,Coffee,Wine
+23,Female,63.2,171,Black Tea,Liquor
+21,Female,64.5,126.4,Coffee,Beer
+19,Female,63.6,160.5,Coke,NaN
+23,Male,68.4,NaN,Gatorade,Wine
+NaN,Male,NaN,211.94,Dr. Pepper,Liquor
+49,Male,67.53,218.35,Red Bull,Beer
+22,Female,62.9,148.5,Coffee,None
+22,Female,61.9,136.4,Black Tea,Liquor
+22,Male,71.8,200.34,Coke,Beer
+32,Female,59.7,155.4,Coke,None
+18,Male,72.41,192.27,Black Tea,NaN
+24,Male,67.73,196.8,Green Tea,Beer
+29,Female,60.8,137.3,Pepsi,None
+24,Female,63,157.6,Green Tea,Beer
+32,Male,73.98,198.58,Water,None
+22,Male,68.78,199.06,Green Tea,Liquor
+50,Female,56.9,157.4,Coke,Wine
+19,Female,65,131.5,Green Tea,NaN
+18,Male,64.14,223.2,Black Tea,NaN
+NaN,Male,68.9,210.72,Pepsi,Beer
+18,Female,56.4,166.9,Green Tea,NaN
+49,Female,54.4,130.2,Green Tea,Liquor
+20,Male,65.84,198.25,Apple Juice,NaN
+19,Female,51.8,119,Water,NaN
+21,Female,61.3,116.4,Coffee,Liquor
+47,Female,62.8,143.9,Dr. Pepper,Wine
+45,Male,73.17,204.17,Dr. Pepper,None
+19,Female,59.1,141.8,Coffee,NaN
+20,Female,60.1,152.9,Green Tea,NaN
+19,Female,59.2,147,Water,NaN
+46,Female,59.4,144.3,Dr. Pepper,Liquor
+24,Male,68.78,207.28,Coke,Liquor
+29,Male,74.1,212.2,Dr. Pepper,Beer
+46,Female,59.2,152.6,Gatorade,Beer
+32,Female,63.1,141.1,Coffee,Beer
+23,Female,60.7,120.3,Green Tea,Liquor
+20,Female,64.4,159.7,Apple Juice,NaN
+19,Female,57.6,143.8,Black Tea,NaN
+20,Male,70.25,221.82,Coffee,NaN
+24,Female,60.6,160.3,Water,Liquor
+18,Male,NaN,205.36,Red Bull,NaN
+18,Female,60.3,176.4,Black Tea,NaN
+NaN,Male,67.4,215.97,Pepsi,NaN
+23,Male,75.31,217.36,Black Tea,Wine
+33,Female,61.9,169.3,Coffee,Liquor
+20,Male,70.4,207.73,Green Tea,NaN
+19,Female,56.3,172.2,Green Tea,NaN
+18,Male,NaN,207.96,Pepsi,NaN
+NaN,Male,69.14,216.98,Water,Liquor
+19,Female,58.6,144.6,Gatorade,NaN
+20,Female,61.8,188.8,Apple Juice,NaN
+23,Female,60.8,146,Dr. Pepper,Liquor
+18,Female,64.7,128.6,Red Bull,NaN
+46,Male,71.63,219.17,Coffee,Beer
+50,Male,69.54,233.09,Coke,Wine
+22,Male,75.2,220.85,Apple Juice,Liquor
+18,Female,61.1,159.6,Apple Juice,NaN
+20,Male,69.32,232.16,Apple Juice,NaN
+29,Male,72.81,193.79,Apple Juice,None
+19,Male,68.69,217.61,Black Tea,NaN
+NaN,Female,63.8,115,Coffee,Beer
+NaN,Female,56.1,158.9,Apple Juice,NaN
+50,Female,60.3,149.9,Gatorade,Liquor
+24,Female,59.9,132.2,Apple Juice,Beer
+19,Female,60.6,149.7,Water,NaN
+18,Male,73.59,250.52,Water,NaN
+29,Female,60.5,165.4,Water,Wine
+32,Female,62.2,160.3,Water,Wine
+NaN,Male,70.47,213.64,Red Bull,Beer
+47,Female,63,190.7,Apple Juice,Liquor
+24,Female,57.8,158.7,Pepsi,Liquor
+NaN,Female,57.8,148.1,Black Tea,Beer
+19,Male,73.94,188.15,Water,NaN
+24,Male,NaN,181.48,Coffee,Liquor
+NaN,Male,70.17,215.97,Coke,Liquor
+46,Female,58.3,146.8,Gatorade,Liquor
+80,Male,NaN,181.58,Black Tea,Beer
+32,Female,53.9,133.4,Water,None
+22,Female,59,166.1,Apple Juice,Wine
+21,Male,74.52,226.79,Green Tea,Beer
+NaN,Female,65.4,183.3,Pepsi,Liquor
+50,Male,67.59,217.55,Gatorade,Liquor
+23,Male,67.55,236.03,Apple Juice,Wine
+20,Female,58.7,126,Coke,NaN
+20,Male,72.23,205.38,Water,NaN
+45,Female,58.3,157.2,Dr. Pepper,Wine
+19,Male,75.06,214.78,Black Tea,NaN
+29,Male,75.46,194.33,Gatorade,Liquor
+20,Male,74.98,192.77,Dr. Pepper,NaN
+32,Male,69.27,216.15,Water,Beer
+32,Male,72.76,206.82,Dr. Pepper,Wine
+NaN,Female,60.3,175,Water,None
+23,Male,73.75,204.53,Coke,Liquor
+22,Female,58.4,148.8,Gatorade,None
+33,Male,72.79,193.53,Apple Juice,Liquor
+24,Female,63,196.6,Black Tea,Liquor
+21,Male,73.04,190.31,Coffee,Wine
+18,Female,59.3,160.3,Green Tea,NaN
+20,Male,66.59,NaN,Green Tea,NaN
+29,Male,65.44,211.93,Dr. Pepper,Wine
+22,Male,68.51,203.12,Water,Wine
+20,Female,55.9,121.6,Black Tea,NaN
+23,Male,69.02,206.94,Coffee,Wine
+18,Female,63.6,191.1,Green Tea,NaN
+19,Male,70.25,187.99,Green Tea,NaN
+29,Female,58.6,147.1,Green Tea,Liquor
+18,Male,70.2,233.05,Coffee,NaN
+20,Male,71.06,218.62,Pepsi,NaN
+23,Female,59.7,177.9,Water,Wine
+18,Female,59.6,126.9,Gatorade,NaN
+NaN,Male,65.73,202.78,Red Bull,Beer
+NaN,Female,58.8,123.3,Dr. Pepper,Beer
+50,Female,59.1,162.5,Water,Liquor
+45,Female,61.4,123.1,Coffee,Liquor
+23,Female,55.8,117.1,Gatorade,Liquor
+48,Male,69.7,177.44,Green Tea,Liquor
+24,Male,66.65,213.79,Green Tea,Beer
+24,Female,61.3,150.7,Gatorade,Beer
+18,Male,70.17,238.97,Pepsi,NaN
+NaN,Female,60.3,177.7,Coffee,Wine
+NaN,Female,59.9,104.4,Apple Juice,NaN
+20,Male,65.34,211.6,Green Tea,NaN
+18,Female,55.9,157.9,Black Tea,NaN
+29,Male,66.02,209.7,Green Tea,Liquor
+22,Male,61.39,179.16,Water,Liquor
+24,Male,NaN,168.21,Black Tea,None
+23,Male,71.29,216.18,Green Tea,None
+20,Male,77.01,190.35,Black Tea,NaN
+21,Male,70.86,NaN,Black Tea,Beer
+21,Male,69.09,219.49,Water,Beer
+22,Male,73.27,209.23,Water,Beer
+60,Female,61.4,142,Gatorade,Wine
+21,Female,62.1,149.8,Dr. Pepper,Beer
+18,Female,63.3,135.9,Apple Juice,NaN
+47,Male,68.45,205.67,Dr. Pepper,Liquor
+45,Female,57.3,174,Coffee,Beer
+20,Female,59,121.2,Gatorade,NaN
+23,Female,61.6,152.5,Gatorade,Beer
+20,Male,62.21,201.05,Coffee,NaN
+NaN,Male,73.57,231.16,Coffee,NaN
+19,Female,58,113.6,Coffee,NaN
+21,Female,56,169.3,Water,None
+NaN,Female,58.5,150.6,Green Tea,NaN
+24,Female,62.5,123,Pepsi,None
+29,Female,62.9,177.5,Green Tea,Liquor
+48,Male,68.89,213.72,Coke,Beer
+21,Male,NaN,239.33,Green Tea,Liquor
+NaN,Female,58.6,149.9,Coffee,NaN
+21,Male,73.85,195.09,Dr. Pepper,Liquor
+33,Male,66.18,197.34,Apple Juice,Liquor
+NaN,Female,63,133.6,Pepsi,Wine
+21,Female,60,168,Green Tea,Wine
+NaN,Male,68.24,213.21,Apple Juice,NaN
+18,Male,71.47,188.23,Black Tea,NaN
+19,Male,62.07,203.66,Water,NaN
+23,Male,70.31,210.04,Apple Juice,Liquor
+18,Male,66.59,200.12,Apple Juice,NaN
+NaN,Male,66.19,210.26,Green Tea,NaN
+18,Male,66.38,234.87,Water,NaN
+23,Male,67.98,171.91,Dr. Pepper,Liquor
+18,Female,64.7,107.3,Gatorade,NaN
+33,Female,58.5,157.3,Green Tea,Liquor
+20,Male,NaN,189.11,Black Tea,NaN
+29,Male,NaN,NaN,Green Tea,None
+22,Male,72.86,183.38,Black Tea,Wine
+NaN,Female,60.1,206.3,Water,NaN
+23,Female,52.4,145.4,Water,Liquor
+24,Male,71.41,210.29,Black Tea,Liquor
+19,Female,62.3,121.5,Dr. Pepper,NaN
+32,Female,62.2,142.5,Coffee,Wine
+23,Male,65.38,206.28,Black Tea,Wine
+22,Male,65.47,199.31,Pepsi,Wine
+23,Male,72.24,209.5,Water,Liquor
+24,Male,76.62,193.13,Apple Juice,Liquor
+19,Female,50.9,190.4,Apple Juice,NaN
+32,Male,NaN,197.32,Black Tea,Liquor
+33,Male,NaN,NaN,Black Tea,Beer
+29,Female,57.5,147.9,Coffee,Liquor
+24,Female,55.4,141.5,Coffee,Liquor
+22,Male,NaN,207.28,Water,Liquor
+33,Male,67.25,215.35,Gatorade,Liquor
+24,Male,69.37,217.67,Green Tea,Liquor
+20,Male,68.42,209.88,Dr. Pepper,NaN
+22,Female,58.8,155.2,Black Tea,Wine
+21,Female,58.8,131.4,Coffee,Liquor
+NaN,Male,69.51,234.57,Apple Juice,NaN
+23,Female,63.7,157.4,Black Tea,Liquor
+33,Male,67.14,198.18,Red Bull,Wine
+49,Female,59.3,147,Water,Wine
+24,Male,75.91,229.99,Pepsi,None
+18,Male,65.33,208.38,Coffee,NaN
+21,Male,66.5,NaN,Green Tea,None
+18,Female,63.9,128.5,Red Bull,NaN
+19,Female,54.9,177.7,Coffee,NaN
+23,Male,74.67,213.87,Water,Beer
+19,Male,70.21,206.95,Gatorade,NaN
+23,Female,62.4,133.2,Black Tea,Beer
+22,Male,73.26,NaN,Dr. Pepper,Beer
+45,Male,66.6,221.43,Dr. Pepper,Liquor
+24,Female,62.6,155,Coffee,Wine
+46,Female,60.8,147.1,Gatorade,Liquor
+20,Male,69.72,187.67,Water,NaN
+19,Female,59.6,166.1,Apple Juice,NaN
+24,Female,57.8,147.9,Water,Liquor
+46,Female,61.3,123.4,Dr. Pepper,Beer
+60,Male,66.08,NaN,Red Bull,Liquor
+23,Male,66.45,221.08,Apple Juice,None
+20,Male,69.85,205.02,Black Tea,NaN
+23,Male,71.11,NaN,Coffee,Wine
+33,Female,58.3,161.7,Green Tea,Beer
+23,Female,61.1,149.5,Gatorade,Liquor
+18,Male,74.6,210.44,Water,NaN
